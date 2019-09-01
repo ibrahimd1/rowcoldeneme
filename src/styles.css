@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.TitleIle {
+  text-align: center;
+}
+
+.ElementCentered {
+  display: flex;
+  justify-content: center;
+  /* text-align: center; */
+  align-items: center;
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.ElementCenteredBaslik {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.h4Style {
+  padding-left: 5px;
+}

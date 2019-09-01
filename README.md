@@ -1,2 +1,0 @@
-# rowcoldeneme
-Created with CodeSandbox
