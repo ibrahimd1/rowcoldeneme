@@ -53,7 +53,7 @@ function HeaderFooter(props) {
       <Row>
         <Col>
           <Row>
-            <Col style={{ display: "flex" }}>
+            <Col>
               <h4>{props.baslik}</h4>
               <h4 className="h4Style">{props.value}</h4>
             </Col>
